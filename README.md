@@ -1,6 +1,5 @@
-## 👋 Hi, I'm Prem
+![Developer Banner](https://media.giphy.com/media/9B8wYztAoe1zO/giphy.gif)
 
-![Developer Banner](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 **Computer Science & Business Systems (CSBS) | Backend Logic | Containerization**
 
