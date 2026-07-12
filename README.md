@@ -1,4 +1,4 @@
-![Developer Banner](./scaled_banner.gif)
+![Developer Banner](./scaled_banner(final).gif)
 
 
 **Computer Science & Business Systems (CSBS) | Backend Logic | Containerization**
