@@ -1,6 +1,6 @@
 ![Developer Banner](./scaled_banner(final).gif)
 # 💫 About Me:
-> 🔭 I’m currently working on containerizing backend environments with Docker and deploying local machine learning models via Ollama.<br>> 👯 I’m looking to collaborate on advanced media renderer optimizations (like madVR or MPC Video Renderer) and robust API logic.<br>> 🤝 I’m looking for help with scaling single-language backend architectures and refining deployment scripts.<br>> 🌱 I’m currently learning advanced integrations for local LLMs and optimizing backend performance for high-bitrate data.<br>> 💬 Ask me about Computer Science and Business Systems (CSBS), configuring Docker, or setting up high-fidelity video playback.<br>> ⚡ Fun fact: I do all my heavy lifting and local LLM deployment testing on an Intel i5 with a GTX 1650 Ti.
+🔭 I’m currently working on containerizing backend environments with Docker and deploying local machine learning models via Ollama.<br> 👯 I’m looking to collaborate on advanced media renderer optimizations (like madVR or MPC Video Renderer) and robust API logic.<br> 🤝 I’m looking for help with scaling single-language backend architectures and refining deployment scripts.<br> 🌱 I’m currently learning advanced integrations for local LLMs and optimizing backend performance for high-bitrate data.<br> 💬 Ask me about Computer Science and Business Systems (CSBS), configuring Docker, or setting up high-fidelity video playback.<br>⚡ Fun fact: I do all my heavy lifting and local LLM deployment testing on an Intel i5 with a GTX 1650 Ti.
 
 
 ## 🌐 Socials:
@@ -13,11 +13,6 @@
 ![](https://streak-stats.demolab.com/?user=Prem-333&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prem-333&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prem-333&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=Prem-333&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--START_SECTION:activity-->
