@@ -1,4 +1,4 @@
-![Developer Banner](./output-onlinegiftools.gif)
+![Developer Banner](./scaled_banner.gif)
 
 
 
