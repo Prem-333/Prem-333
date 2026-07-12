@@ -1,5 +1,6 @@
 ![Developer Banner](./scaled_banner.gif)
 
+
 **Computer Science & Business Systems (CSBS) | Backend Logic | Containerization**
 
 I specialize in backend architecture, local machine learning deployments, and building robust system logic. My engineering focus is strictly on the backend—ensuring high performance, clean API integration, and scalable infrastructure without front-end overhead.
