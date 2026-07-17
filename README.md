@@ -17,9 +17,9 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # History
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/saran612/assetflow/pull/20) in [saran612/assetflow](https://github.com/saran612/assetflow)
-2. 💪 Opened PR [#20](https://github.com/saran612/assetflow/pull/20) in [saran612/assetflow](https://github.com/saran612/assetflow)
-3. 🎉 Merged PR [#19](https://github.com/saran612/assetflow/pull/19) in [saran612/assetflow](https://github.com/saran612/assetflow)
-4. 💪 Opened PR [#19](https://github.com/saran612/assetflow/pull/19) in [saran612/assetflow](https://github.com/saran612/assetflow)
-5. 🎉 Merged PR [#18](https://github.com/saran612/assetflow/pull/18) in [saran612/assetflow](https://github.com/saran612/assetflow)
+1. 🎉 Merged PR [#2](https://github.com/saran612/TrackZen/pull/2) in [saran612/TrackZen](https://github.com/saran612/TrackZen)
+2. 💪 Opened PR [#2](https://github.com/saran612/TrackZen/pull/2) in [saran612/TrackZen](https://github.com/saran612/TrackZen)
+3. 🎉 Merged PR [#20](https://github.com/saran612/assetflow/pull/20) in [saran612/assetflow](https://github.com/saran612/assetflow)
+4. 💪 Opened PR [#20](https://github.com/saran612/assetflow/pull/20) in [saran612/assetflow](https://github.com/saran612/assetflow)
+5. 🎉 Merged PR [#19](https://github.com/saran612/assetflow/pull/19) in [saran612/assetflow](https://github.com/saran612/assetflow)
 <!--END_SECTION:activity-->
