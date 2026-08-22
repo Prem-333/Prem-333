@@ -15,17 +15,20 @@
 ```yaml
 name: "Premnath V R"
 role: "Computer Science & Business Systems (CSBS) Student"
+location: "Erode, India"
 current_focus:
   - Containerizing backend environments with Docker
-  - Deploying local machine learning models 
+  - Deploying local machine learning models via Ollama
 looking_for:
   - Help scaling single-language backend architectures
   - Refining and hardening deployment scripts
 currently_learning:
   - Advanced integrations for local LLMs
+  - Backend performance tuning for high-bitrate data
 ask_me_about:
   - Computer Science & Business Systems (CSBS)
   - Configuring Docker
+  - Running LLMs on low-VRAM GPUs
 lab_rig: "Intel i5 + GTX 1650 Ti — where every local LLM test lives or dies 🔥"
 ```
 
@@ -56,10 +59,12 @@ lab_rig: "Intel i5 + GTX 1650 Ti — where every local LLM test lives or dies �
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prem-333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem-333&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://img.shields.io/github/followers/Prem-333?label=Followers&style=for-the-badge&color=38BDF8"/>
+<img src="https://img.shields.io/github/stars/Prem-333?label=Stars&style=for-the-badge&color=38BDF8"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem-333&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Prem-333&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
