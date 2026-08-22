@@ -1,21 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Hi,%20I'm%20Premnath%20V%20R%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Docker%20%7C%20Local%20LLMs%20with%20Ollama&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e3a8a,100:302b63&height=300&section=header&text=PREMNATH%20V%20R&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Backend%20Engineer%20%E2%80%A2%20Docker%20%E2%80%A2%20Local%20LLM%20Deployment&descAlignY=55&descSize=20&descAlign=50" width="100%"/>
 
 <a href="https://github.com/Prem-333">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Containerizing+backend+environments+with+Docker;Deploying+local+ML+models+via+Ollama;Scaling+single-language+backend+architectures;Optimizing+high-bitrate+data+pipelines;Always+learning%2C+always+shipping.&font=Fira+Code&center=true&width=650&height=50&duration=3000&pause=800&color=38BDF8&vCenter=true&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Containerizing+backend+environments+with+Docker;Deploying+local+ML+models+via+Ollama;Scaling+single-language+backend+architectures;Optimizing+high-bitrate+data+pipelines;Building+systems+that+don't+break+under+load.&font=Fira+Code&center=true&width=650&height=50&duration=3000&pause=800&color=38BDF8&vCenter=true&size=22"/>
 </a>
+
+<br>
+
+<img src="https://img.shields.io/badge/Backend%20Engineer-0f172a?style=for-the-badge&labelColor=0f172a&color=38BDF8"/>
+<img src="https://img.shields.io/badge/CSBS%20Student-0f172a?style=for-the-badge&labelColor=0f172a&color=38BDF8"/>
+<img src="https://img.shields.io/badge/Open%20to%20Collaborate-0f172a?style=for-the-badge&labelColor=0f172a&color=38BDF8"/>
 
 </div>
 
 <br>
 
-## 💫 About Me
+## About Me
 
 ```yaml
 name: "Premnath V R"
 role: "Computer Science & Business Systems (CSBS) Student"
-location: "Erode, India"
 current_focus:
   - Containerizing backend environments with Docker
   - Deploying local machine learning models via Ollama
@@ -29,12 +34,12 @@ ask_me_about:
   - Computer Science & Business Systems (CSBS)
   - Configuring Docker
   - Running LLMs on low-VRAM GPUs
-lab_rig: "Intel i5 + GTX 1650 Ti — where every local LLM test lives or dies 🔥"
+lab_rig: "Intel i5 + GTX 1650 Ti — where every local LLM test lives or dies"
 ```
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -55,38 +60,27 @@ lab_rig: "Intel i5 + GTX 1650 Ti — where every local LLM test lives or dies �
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/Prem-333?label=Followers&style=for-the-badge&color=38BDF8"/>
-<img src="https://img.shields.io/github/stars/Prem-333?label=Stars&style=for-the-badge&color=38BDF8"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=Prem-333&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://img.shields.io/github/followers/Prem-333?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0f172a"/>
+<img src="https://img.shields.io/github/stars/Prem-333?label=Stars&style=for-the-badge&color=38BDF8&labelColor=0f172a"/>
+<img src="https://img.shields.io/github/last-commit/Prem-333/assetflow?label=Last%20Commit&style=for-the-badge&color=38BDF8&labelColor=0f172a"/>
 
 </div>
 
 <br>
 
-## 🏆 Trophies
+## Contribution Graph
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Prem-333&theme=darkhub&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prem-333&theme=tokyo-night&hide_border=true&bg_color=0f172a" width="95%"/>
 </div>
 
 <br>
 
-## 📊 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prem-333&theme=tokyo-night&hide_border=true" width="95%"/>
-</div>
-
-<br>
-
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -101,8 +95,8 @@ lab_rig: "Intel i5 + GTX 1650 Ti — where every local LLM test lives or dies �
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Prem-333&color=38bdf8&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Prem-333&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,50:1e3a8a,100:0f0c29&height=150&section=footer" width="100%"/>
 
 </div>
