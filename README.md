@@ -75,7 +75,7 @@ lab_rig: "Intel i5 + GTX 1650 Ti — where every local LLM test lives or dies"
 ## Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prem-333&theme=tokyo-night&hide_border=true&bg_color=0f172a" width="95%"/>
+<img src="https://ghchart.rshah.org/38BDF8/Prem-333" alt="Prem-333's GitHub chart" width="95%"/>
 </div>
 
 <br>
