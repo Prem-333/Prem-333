@@ -72,18 +72,11 @@ lab_rig: "Intel i5 + GTX 1650 Ti — where every local LLM test lives or dies"
 
 <br>
 
-## Contribution Graph
+## Contribution Snake
 
 <div align="center">
-<img src="https://ghchart.rshah.org/38BDF8/Prem-333" alt="Prem-333's GitHub chart" width="95%"/>
+<img src="https://raw.githubusercontent.com/Prem-333/Prem-333/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
-
-<br>
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <br>
 
