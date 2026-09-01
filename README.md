@@ -80,6 +80,13 @@ lab_rig: "Intel i5 + GTX 1650 Ti — where every local LLM test lives or dies"
 
 <br>
 
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br>
+
 ## Connect With Me
 
 <div align="center">
